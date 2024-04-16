@@ -1,0 +1,101 @@
+{
+  "createdBy": "IqzTkBgwWTbzaXDAhTL6IpwiCah1",
+  "createdDate": 1677557422889,
+  "data": {
+    "inputs": [],
+    "kiboProduct": "HKFT_018",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-7fcd05493a5549f3b77c011098cbd931",
+        "component": {
+          "name": "Text",
+          "options": {
+            "text": "<p>Some text</p>"
+          }
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px",
+            "lineHeight": "normal",
+            "height": "auto"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-07277af8ce9741aaa90e0cc3dd21ffc1",
+        "component": {
+          "name": "CmsHomePageProducts",
+          "options": {
+            "recentlyViewed": {
+              "title": "Recently Viewed and Related",
+              "productCodes": ["SG_011", "DOG_008"]
+            },
+            "topSellings": {
+              "title": "Top-selling products",
+              "productCodes": ["DOG_007", "HKFT_020"]
+            }
+          }
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "folders": [],
+  "id": "f3816f5c72ec40fea30aaab9a7c42380",
+  "lastUpdatedBy": "IqzTkBgwWTbzaXDAhTL6IpwiCah1",
+  "meta": {
+    "componentsUsed": {
+      "CmsHomePageProducts": 1
+    },
+    "hasLinks": false,
+    "kind": "component",
+    "lastPreviewUrl": "https://next-kibo-starter.vercel.app/product/Hammock_015?builder.space=1f098a44b17d4df688d2afdc8a10ac7d&builder.cachebust=true&builder.preview=product-page-footer&builder.noCache=true&__builder_editing__=true&builder.overrides.product-page-footer=12e30decbb8241dc8222ebcfc783cd60&builder.overrides.12e30decbb8241dc8222ebcfc783cd60=12e30decbb8241dc8222ebcfc783cd60",
+    "needsHydration": false
+  },
+  "modelId": "bd2140a6ec0745e69ac3e61172b63728",
+  "name": "hammock footer",
+  "published": "published",
+  "query": [
+    {
+      "@type": "@builder.io/core:Query",
+      "operator": "is",
+      "property": "product",
+      "value": "Hammock_015"
+    }
+  ],
+  "testRatio": 1,
+  "variations": {},
+  "lastUpdated": 1677605253595,
+  "previewUrl": "https://next-kibo-starter.vercel.app/product/Hammock_015",
+  "firstPublished": 1677557442905,
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2F1f098a44b17d4df688d2afdc8a10ac7d%2Fa718153de32e40c8acaad96c7ba83f90",
+  "rev": "t5vexekmy2n",
+  "@originOrg": "1f098a44b17d4df688d2afdc8a10ac7d",
+  "@originContentId": "12e30decbb8241dc8222ebcfc783cd60",
+  "@originModelId": "1c7656e746f242248b68e3e26025d615"
+}

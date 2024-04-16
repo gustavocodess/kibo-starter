@@ -1,0 +1,3047 @@
+{
+  "createdBy": "IqzTkBgwWTbzaXDAhTL6IpwiCah1",
+  "createdDate": 1677556572412,
+  "data": {
+    "themeId": false,
+    "title": "homepage",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-0e9fd1b00208486fab2166ec95ae4e37",
+        "meta": {
+          "previousId": "builder-6b84a1e0beef41c4bac281ebd134da5d"
+        },
+        "component": {
+          "name": "Core:Section",
+          "options": {
+            "maxWidth": 1200
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5c6984f6e9d24f788ac18375a1649f99",
+            "groupLocked": true,
+            "meta": {
+              "previousId": "builder-8f472023edd9460c8fab9254d2bf431b"
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e0328894eeee47eebbb289b643f6388a",
+                "meta": {
+                  "previousId": "builder-ad73e6cced1a40c0b6df9ba7f719f177"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3f5ca6f8df284630875f1d9604fc8d9d?width=1960",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "aspectRatio": 0.666,
+                    "sizes": "(max-width: 638px) 100vw, 96vw",
+                    "height": 1253,
+                    "width": 1880,
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3f5ca6f8df284630875f1d9604fc8d9d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3f5ca6f8df284630875f1d9604fc8d9d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3f5ca6f8df284630875f1d9604fc8d9d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3f5ca6f8df284630875f1d9604fc8d9d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3f5ca6f8df284630875f1d9604fc8d9d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3f5ca6f8df284630875f1d9604fc8d9d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3f5ca6f8df284630875f1d9604fc8d9d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3f5ca6f8df284630875f1d9604fc8d9d?width=1960 1960w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3f5ca6f8df284630875f1d9604fc8d9d?width=638 638w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3f5ca6f8df284630875f1d9604fc8d9d?width=958 958w"
+                  }
+                },
+                "children": [
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-6ee82e2082564510a0748ccbfc5f5044",
+                    "meta": {
+                      "previousId": "builder-1986a34b31e14d8db94ceb9f5f32c8ee"
+                    },
+                    "children": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-2acd7a902de84aae8584b6cf7ab5fbe1",
+                        "meta": {
+                          "previousId": "builder-47b2d6ee129d4579916e3740e249d666"
+                        },
+                        "component": {
+                          "name": "Text",
+                          "options": {
+                            "text": "<p>GIFT GUIDE</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "alignItems": "stretch",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginLeft": "20px",
+                            "lineHeight": "normal",
+                            "height": "auto",
+                            "textAlign": "center",
+                            "fontWeight": "600",
+                            "fontSize": "26px",
+                            "letterSpacing": "2px"
+                          },
+                          "small": {
+                            "fontSize": "22px"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-0952012e02c147b2a7400e8b087c5207",
+                        "meta": {
+                          "previousId": "builder-7732c08c640a4adb93b3128d452346eb"
+                        },
+                        "component": {
+                          "name": "Text",
+                          "options": {
+                            "text": "<p>here's to <span class=\"j\">j</span><span class=\"o\">o</span><span class=\"y\">y</span></p>\n"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "alignItems": "stretch",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginLeft": "20px",
+                            "lineHeight": "normal",
+                            "height": "auto",
+                            "textAlign": "center",
+                            "fontSize": "72px"
+                          },
+                          "small": {
+                            "marginLeft": "0px",
+                            "fontSize": "52px"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-84c262af36a546eb94f67143865bfe5e",
+                        "meta": {
+                          "previousId": "builder-d797bad6b47346fc843108526637d7cf"
+                        },
+                        "component": {
+                          "name": "Text",
+                          "options": {
+                            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "alignItems": "stretch",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginLeft": "auto",
+                            "lineHeight": "normal",
+                            "height": "auto",
+                            "textAlign": "center",
+                            "width": "20%",
+                            "marginRight": "auto"
+                          },
+                          "medium": {
+                            "width": "40%"
+                          },
+                          "small": {
+                            "width": "70%"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-78481778b646404d9e2ea5b579bfd2ed",
+                        "meta": {
+                          "previousId": "builder-519fbd04c63e47b8a41fd20f1ca55948"
+                        },
+                        "component": {
+                          "name": "Core:Button",
+                          "options": {
+                            "text": "SHOP GIFTS"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "alignItems": "stretch",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "20px",
+                            "appearance": "none",
+                            "paddingTop": "15px",
+                            "paddingBottom": "15px",
+                            "paddingLeft": "25px",
+                            "paddingRight": "25px",
+                            "backgroundColor": "rgba(74, 74, 74, 1)",
+                            "color": "white",
+                            "borderRadius": "4px",
+                            "textAlign": "center",
+                            "cursor": "pointer",
+                            "width": "auto",
+                            "alignSelf": "center"
+                          }
+                        }
+                      }
+                    ],
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "alignItems": "stretch",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "marginTop": "auto",
+                        "height": "auto",
+                        "paddingBottom": "30px",
+                        "marginBottom": "auto"
+                      }
+                    }
+                  }
+                ],
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "alignItems": "stretch",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "width": "100%"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "row",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingBottom": "0px",
+                "height": "500px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "backgroundRepeat": "no-repeat",
+                "backgroundPosition": "center",
+                "backgroundSize": "cover"
+              },
+              "medium": {
+                "paddingLeft": "0px",
+                "paddingRight": "0px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-343ce2f7e6a84432bef50eaf866db25d",
+            "groupLocked": true,
+            "meta": {
+              "previousId": "builder-84ee704a9f144ab989f9c2d08df20a5a"
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-7b7807ce209945a0be6324d5d7a8aa4d",
+                "meta": {
+                  "previousId": "builder-b135b9530e794c688136e11d8c26b2dd"
+                },
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p>Shop gifts</p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "alignItems": "stretch",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "textAlign": "center",
+                    "fontSize": "26px",
+                    "fontWeight": "300",
+                    "borderBottom": "1px solid #d3d3d3",
+                    "paddingBottom": "30px",
+                    "width": "90vw",
+                    "marginLeft": "auto",
+                    "marginRight": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-5efa59edf6bb45a38e2f8e50d7c20cbb",
+                "meta": {
+                  "previousId": "builder-25e7106a57b24de78c7e338eeb583cc5"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-a0211485c4574a9c85c3e9e135a946e0",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F46f84d08ce6f4f808c3f86208053ecc9?width=940",
+                                "backgroundPosition": "center",
+                                "backgroundSize": "cover",
+                                "aspectRatio": 0.7004048582995948,
+                                "lazy": false,
+                                "sizes": "(max-width: 638px) 91vw, 90vw",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F46f84d08ce6f4f808c3f86208053ecc9?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F46f84d08ce6f4f808c3f86208053ecc9?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F46f84d08ce6f4f808c3f86208053ecc9?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F46f84d08ce6f4f808c3f86208053ecc9?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F46f84d08ce6f4f808c3f86208053ecc9?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F46f84d08ce6f4f808c3f86208053ecc9?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F46f84d08ce6f4f808c3f86208053ecc9?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F46f84d08ce6f4f808c3f86208053ecc9?width=940 940w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F46f84d08ce6f4f808c3f86208053ecc9?width=578 578w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F46f84d08ce6f4f808c3f86208053ecc9?width=898 898w",
+                                "height": 627,
+                                "width": 940
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "30px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-dfaed81f903a4df6800c16fb792a4610",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Gifts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "20px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "22px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-1462bf2de20d4510881f56734d7b6992",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Lorem ipsum dolor sit amet</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-a330ac666cf74eb1b1d9066c667d8815",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><a href=\"Shop now.\" rel=\"noopener noreferrer\">Shop now</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "15px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-f7f5805a89534f21b9ccc4b2d572f5a5",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ffb2b2f2f40494968afcb78a59e311f87?width=940",
+                                "backgroundPosition": "center",
+                                "backgroundSize": "cover",
+                                "aspectRatio": 0.7004048582995948,
+                                "lazy": false,
+                                "sizes": "(max-width: 638px) 91vw, 90vw",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ffb2b2f2f40494968afcb78a59e311f87?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ffb2b2f2f40494968afcb78a59e311f87?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ffb2b2f2f40494968afcb78a59e311f87?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ffb2b2f2f40494968afcb78a59e311f87?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ffb2b2f2f40494968afcb78a59e311f87?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ffb2b2f2f40494968afcb78a59e311f87?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ffb2b2f2f40494968afcb78a59e311f87?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ffb2b2f2f40494968afcb78a59e311f87?width=940 940w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ffb2b2f2f40494968afcb78a59e311f87?width=578 578w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ffb2b2f2f40494968afcb78a59e311f87?width=898 898w",
+                                "height": 627,
+                                "width": 940
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "30px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-6992eb6f814d4e4aa0afc454bcc2a6a3",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Gifts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "20px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "22px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-badfadd3564d4e178b9781111700b4aa",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Lorem ipsum dolor sit amet</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-78689cf1b6f14819aee5190fae5c106d",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><a href=\"Shop now.\" rel=\"noopener noreferrer\">Shop now</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "15px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "tablet"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "alignItems": "stretch",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "paddingLeft": "50px",
+                    "paddingRight": "50px"
+                  },
+                  "small": {
+                    "paddingLeft": "30px",
+                    "paddingRight": "30px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-a385d5d3736148b88955895be613f98d",
+                "meta": {
+                  "previousId": "builder-01e143b344974f0295f39a2dc93e3096"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-a67666d375664e9dab7ef3564866f268",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3b00d019bb034312ad3f68bd9db46ac9?width=940",
+                                "backgroundPosition": "center",
+                                "backgroundSize": "cover",
+                                "aspectRatio": 0.7004048582995948,
+                                "lazy": true,
+                                "sizes": "(max-width: 638px) 85vw, 90vw",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3b00d019bb034312ad3f68bd9db46ac9?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3b00d019bb034312ad3f68bd9db46ac9?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3b00d019bb034312ad3f68bd9db46ac9?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3b00d019bb034312ad3f68bd9db46ac9?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3b00d019bb034312ad3f68bd9db46ac9?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3b00d019bb034312ad3f68bd9db46ac9?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3b00d019bb034312ad3f68bd9db46ac9?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3b00d019bb034312ad3f68bd9db46ac9?width=940 940w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3b00d019bb034312ad3f68bd9db46ac9?width=538 538w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3b00d019bb034312ad3f68bd9db46ac9?width=898 898w",
+                                "height": 627,
+                                "width": 940
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "30px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-e93971a92dfc410faf118a3baf348d21",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Gifts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "20px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "22px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-9ba4b247fd514e79a334028d3e4d801e",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Lorem ipsum dolor sit amet</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-4891c8e05f37495ca765c2884edf3c94",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><a href=\"Shop now.\" rel=\"noopener noreferrer\">Shop now</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "15px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-6afee6fc97e94e3fab43fa20b769f254",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F601d7ba0bb3649e39ec0da418b143a70?width=940",
+                                "backgroundPosition": "center",
+                                "backgroundSize": "cover",
+                                "aspectRatio": 0.7004048582995948,
+                                "lazy": true,
+                                "sizes": "(max-width: 638px) 85vw, 90vw",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F601d7ba0bb3649e39ec0da418b143a70?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F601d7ba0bb3649e39ec0da418b143a70?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F601d7ba0bb3649e39ec0da418b143a70?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F601d7ba0bb3649e39ec0da418b143a70?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F601d7ba0bb3649e39ec0da418b143a70?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F601d7ba0bb3649e39ec0da418b143a70?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F601d7ba0bb3649e39ec0da418b143a70?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F601d7ba0bb3649e39ec0da418b143a70?width=940 940w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F601d7ba0bb3649e39ec0da418b143a70?width=538 538w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F601d7ba0bb3649e39ec0da418b143a70?width=898 898w",
+                                "height": 1300,
+                                "width": 867
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "30px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-096aa11b78b34af38599aa0a36cbcd99",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Gifts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "20px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "22px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-704e5143e59d4de0ab7a1098e8e61001",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Lorem ipsum dolor sit amet</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-e6b1bac99cea4820aa3f611d7985323e",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><a href=\"Shop now.\" rel=\"noopener noreferrer\">Shop now</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "15px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "tablet"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "alignItems": "stretch",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "paddingLeft": "50px",
+                    "paddingRight": "50px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "alignItems": "stretch",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "height": "auto",
+                "paddingBottom": "30px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e0c4ce71703445e0a6c07a9384a088f7",
+            "groupLocked": true,
+            "meta": {
+              "previousId": "builder-b34a204a6bd84c4788d6ce10dbe6c62c"
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-0b43057aa7fb4b239979fa7c3696d814",
+                "meta": {
+                  "previousId": "builder-ecb5ab25f83b4c84b341c7e4d411ecff"
+                },
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p>Gifts by price</p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "alignItems": "stretch",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "textAlign": "center",
+                    "fontSize": "26px",
+                    "fontWeight": "300",
+                    "borderBottom": "1px solid #d3d3d3",
+                    "paddingBottom": "30px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-ce0a67771d53401fa279449eb20ce89f",
+                "meta": {
+                  "previousId": "builder-c6b4f76c525a4d17adae7524e261bf80"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-029c41c48333415cbd0f798207331322",
+                            "children": [
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-ca159ccf368e40028d3276a7d334c604",
+                                "children": [
+                                  {
+                                    "@type": "@builder.io/sdk:Element",
+                                    "@version": 2,
+                                    "id": "builder-0a6e0adc2e564ccb80d279132be9616e",
+                                    "children": [
+                                      {
+                                        "@type": "@builder.io/sdk:Element",
+                                        "@version": 2,
+                                        "id": "builder-a7f3820f16bc449f9c84ae3e8788e7b0",
+                                        "component": {
+                                          "name": "Text",
+                                          "options": {
+                                            "text": "<p>GIFTS</p>"
+                                          }
+                                        },
+                                        "responsiveStyles": {
+                                          "large": {
+                                            "display": "flex",
+                                            "flexDirection": "column",
+                                            "alignItems": "stretch",
+                                            "position": "relative",
+                                            "flexShrink": "0",
+                                            "boxSizing": "border-box",
+                                            "marginTop": "auto",
+                                            "lineHeight": "10px",
+                                            "height": "auto",
+                                            "textAlign": "center",
+                                            "fontSize": "32px",
+                                            "marginBottom": "auto",
+                                            "color": "rgba(255, 255, 255, 1)",
+                                            "flexGrow": "0",
+                                            "letterSpacing": "3px"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "@type": "@builder.io/sdk:Element",
+                                        "@version": 2,
+                                        "id": "builder-bc42ec984c194b389360c72b8ef106c8",
+                                        "component": {
+                                          "name": "Text",
+                                          "options": {
+                                            "text": "<p>UNDER</p>"
+                                          }
+                                        },
+                                        "responsiveStyles": {
+                                          "large": {
+                                            "display": "flex",
+                                            "flexDirection": "column",
+                                            "alignItems": "stretch",
+                                            "position": "relative",
+                                            "flexShrink": "0",
+                                            "boxSizing": "border-box",
+                                            "marginTop": "auto",
+                                            "lineHeight": "10px",
+                                            "height": "auto",
+                                            "textAlign": "center",
+                                            "fontSize": "32px",
+                                            "marginBottom": "auto",
+                                            "color": "rgba(255, 255, 255, 1)",
+                                            "flexGrow": "0",
+                                            "fontWeight": "600",
+                                            "letterSpacing": "3px"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "@type": "@builder.io/sdk:Element",
+                                        "@version": 2,
+                                        "id": "builder-260598fb5d9845dd8a71e672938e2bda",
+                                        "component": {
+                                          "name": "Text",
+                                          "options": {
+                                            "text": "<p>$25</p>"
+                                          }
+                                        },
+                                        "responsiveStyles": {
+                                          "large": {
+                                            "display": "flex",
+                                            "flexDirection": "column",
+                                            "alignItems": "stretch",
+                                            "position": "relative",
+                                            "flexShrink": "0",
+                                            "boxSizing": "border-box",
+                                            "marginTop": "auto",
+                                            "lineHeight": "10px",
+                                            "height": "auto",
+                                            "textAlign": "center",
+                                            "fontSize": "32px",
+                                            "marginBottom": "auto",
+                                            "color": "rgba(255, 255, 255, 1)",
+                                            "flexGrow": "0",
+                                            "letterSpacing": "3px",
+                                            "fontWeight": "600"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "responsiveStyles": {
+                                      "large": {
+                                        "display": "flex",
+                                        "flexDirection": "column",
+                                        "alignItems": "stretch",
+                                        "position": "relative",
+                                        "flexShrink": "0",
+                                        "boxSizing": "border-box",
+                                        "height": "100%",
+                                        "paddingBottom": "0px",
+                                        "flexGrow": "0",
+                                        "width": "100%",
+                                        "backgroundColor": "rgba(86, 27, 31, 0)"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "alignItems": "stretch",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "height": "90%",
+                                    "flexGrow": "1",
+                                    "width": "90%",
+                                    "marginLeft": "auto",
+                                    "marginRight": "auto",
+                                    "borderStyle": "solid",
+                                    "borderColor": "rgba(255, 255, 255, 1)"
+                                  }
+                                }
+                              }
+                            ],
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "height": "250px",
+                                "paddingBottom": "10px",
+                                "flexGrow": "1",
+                                "backgroundColor": "rgba(34, 64, 61, 1)",
+                                "paddingTop": "10px"
+                              },
+                              "medium": {
+                                "marginTop": "10px",
+                                "paddingTop": "15px",
+                                "paddingBottom": "15px"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-6bdd21c6ace34f78b01b846574491a03",
+                            "children": [
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-e920d63698594b368f23c846d85366b1",
+                                "children": [
+                                  {
+                                    "@type": "@builder.io/sdk:Element",
+                                    "@version": 2,
+                                    "id": "builder-228015eb276f4506b4e43312c0024b29",
+                                    "children": [
+                                      {
+                                        "@type": "@builder.io/sdk:Element",
+                                        "@version": 2,
+                                        "id": "builder-5dd6049e91fb438abd24c5e608e0528f",
+                                        "component": {
+                                          "name": "Text",
+                                          "options": {
+                                            "text": "<p>GIFTS</p>"
+                                          }
+                                        },
+                                        "responsiveStyles": {
+                                          "large": {
+                                            "display": "flex",
+                                            "flexDirection": "column",
+                                            "alignItems": "stretch",
+                                            "position": "relative",
+                                            "flexShrink": "0",
+                                            "boxSizing": "border-box",
+                                            "marginTop": "auto",
+                                            "lineHeight": "10px",
+                                            "height": "auto",
+                                            "textAlign": "center",
+                                            "fontSize": "32px",
+                                            "marginBottom": "auto",
+                                            "color": "rgba(255, 255, 255, 1)",
+                                            "flexGrow": "0",
+                                            "letterSpacing": "3px"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "@type": "@builder.io/sdk:Element",
+                                        "@version": 2,
+                                        "id": "builder-48e884c851414b3294de2d4704134819",
+                                        "component": {
+                                          "name": "Text",
+                                          "options": {
+                                            "text": "<p>UNDER</p>"
+                                          }
+                                        },
+                                        "responsiveStyles": {
+                                          "large": {
+                                            "display": "flex",
+                                            "flexDirection": "column",
+                                            "alignItems": "stretch",
+                                            "position": "relative",
+                                            "flexShrink": "0",
+                                            "boxSizing": "border-box",
+                                            "marginTop": "auto",
+                                            "lineHeight": "10px",
+                                            "height": "auto",
+                                            "textAlign": "center",
+                                            "fontSize": "32px",
+                                            "marginBottom": "auto",
+                                            "color": "rgba(255, 255, 255, 1)",
+                                            "flexGrow": "0",
+                                            "fontWeight": "600",
+                                            "letterSpacing": "3px"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "@type": "@builder.io/sdk:Element",
+                                        "@version": 2,
+                                        "id": "builder-9a35ea396eec480cbbbc3637b21d8160",
+                                        "component": {
+                                          "name": "Text",
+                                          "options": {
+                                            "text": "<p>$50</p>"
+                                          }
+                                        },
+                                        "responsiveStyles": {
+                                          "large": {
+                                            "display": "flex",
+                                            "flexDirection": "column",
+                                            "alignItems": "stretch",
+                                            "position": "relative",
+                                            "flexShrink": "0",
+                                            "boxSizing": "border-box",
+                                            "marginTop": "auto",
+                                            "lineHeight": "10px",
+                                            "height": "auto",
+                                            "textAlign": "center",
+                                            "fontSize": "32px",
+                                            "marginBottom": "auto",
+                                            "color": "rgba(255, 255, 255, 1)",
+                                            "flexGrow": "0",
+                                            "letterSpacing": "3px",
+                                            "fontWeight": "600"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "responsiveStyles": {
+                                      "large": {
+                                        "display": "flex",
+                                        "flexDirection": "column",
+                                        "alignItems": "stretch",
+                                        "position": "relative",
+                                        "flexShrink": "0",
+                                        "boxSizing": "border-box",
+                                        "height": "100%",
+                                        "paddingBottom": "0px",
+                                        "flexGrow": "0",
+                                        "width": "100%",
+                                        "backgroundColor": "rgba(86, 27, 31, 0)"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "alignItems": "stretch",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "height": "90%",
+                                    "flexGrow": "1",
+                                    "width": "90%",
+                                    "marginLeft": "auto",
+                                    "marginRight": "auto",
+                                    "borderStyle": "solid",
+                                    "borderColor": "rgba(255, 255, 255, 1)"
+                                  }
+                                }
+                              }
+                            ],
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "height": "250px",
+                                "paddingBottom": "10px",
+                                "flexGrow": "1",
+                                "backgroundColor": "rgba(86, 27, 31, 1)",
+                                "paddingTop": "10px"
+                              },
+                              "medium": {
+                                "marginTop": "10px",
+                                "paddingTop": "15px",
+                                "paddingBottom": "15px"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-7dded57b89aa4da792afbec70dafa63b",
+                            "children": [
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-c2c8664b565f44d781df4027cc0a2e30",
+                                "children": [
+                                  {
+                                    "@type": "@builder.io/sdk:Element",
+                                    "@version": 2,
+                                    "id": "builder-7f712402dc8044218b4068d4824e4d93",
+                                    "children": [
+                                      {
+                                        "@type": "@builder.io/sdk:Element",
+                                        "@version": 2,
+                                        "id": "builder-60d8843acfa24fb092761ba8bcb88b06",
+                                        "component": {
+                                          "name": "Text",
+                                          "options": {
+                                            "text": "<p>GIFTS</p>"
+                                          }
+                                        },
+                                        "responsiveStyles": {
+                                          "large": {
+                                            "display": "flex",
+                                            "flexDirection": "column",
+                                            "alignItems": "stretch",
+                                            "position": "relative",
+                                            "flexShrink": "0",
+                                            "boxSizing": "border-box",
+                                            "marginTop": "auto",
+                                            "lineHeight": "10px",
+                                            "height": "auto",
+                                            "textAlign": "center",
+                                            "fontSize": "32px",
+                                            "marginBottom": "auto",
+                                            "color": "rgba(255, 255, 255, 1)",
+                                            "flexGrow": "0",
+                                            "letterSpacing": "3px"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "@type": "@builder.io/sdk:Element",
+                                        "@version": 2,
+                                        "id": "builder-d35d3db81e8b4103920b4eb851286820",
+                                        "component": {
+                                          "name": "Text",
+                                          "options": {
+                                            "text": "<p>UNDER</p>"
+                                          }
+                                        },
+                                        "responsiveStyles": {
+                                          "large": {
+                                            "display": "flex",
+                                            "flexDirection": "column",
+                                            "alignItems": "stretch",
+                                            "position": "relative",
+                                            "flexShrink": "0",
+                                            "boxSizing": "border-box",
+                                            "marginTop": "auto",
+                                            "lineHeight": "10px",
+                                            "height": "auto",
+                                            "textAlign": "center",
+                                            "fontSize": "32px",
+                                            "marginBottom": "auto",
+                                            "color": "rgba(255, 255, 255, 1)",
+                                            "flexGrow": "0",
+                                            "fontWeight": "600",
+                                            "letterSpacing": "3px"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "@type": "@builder.io/sdk:Element",
+                                        "@version": 2,
+                                        "id": "builder-159c35343aba4ccaae7bef90d60cc5e3",
+                                        "component": {
+                                          "name": "Text",
+                                          "options": {
+                                            "text": "<p>$75</p>"
+                                          }
+                                        },
+                                        "responsiveStyles": {
+                                          "large": {
+                                            "display": "flex",
+                                            "flexDirection": "column",
+                                            "alignItems": "stretch",
+                                            "position": "relative",
+                                            "flexShrink": "0",
+                                            "boxSizing": "border-box",
+                                            "marginTop": "auto",
+                                            "lineHeight": "10px",
+                                            "height": "auto",
+                                            "textAlign": "center",
+                                            "fontSize": "32px",
+                                            "marginBottom": "auto",
+                                            "color": "rgba(255, 255, 255, 1)",
+                                            "flexGrow": "0",
+                                            "letterSpacing": "3px",
+                                            "fontWeight": "600"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "responsiveStyles": {
+                                      "large": {
+                                        "display": "flex",
+                                        "flexDirection": "column",
+                                        "alignItems": "stretch",
+                                        "position": "relative",
+                                        "flexShrink": "0",
+                                        "boxSizing": "border-box",
+                                        "height": "100%",
+                                        "paddingBottom": "0px",
+                                        "flexGrow": "0",
+                                        "width": "100%",
+                                        "backgroundColor": "rgba(86, 27, 31, 0)"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "alignItems": "stretch",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "height": "90%",
+                                    "flexGrow": "1",
+                                    "width": "90%",
+                                    "marginLeft": "auto",
+                                    "marginRight": "auto",
+                                    "borderStyle": "solid",
+                                    "borderColor": "rgba(255, 255, 255, 1)"
+                                  }
+                                }
+                              }
+                            ],
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "height": "250px",
+                                "paddingBottom": "10px",
+                                "flexGrow": "1",
+                                "backgroundColor": "rgba(190, 176, 112, 1)",
+                                "paddingTop": "10px"
+                              },
+                              "medium": {
+                                "marginTop": "10px",
+                                "paddingTop": "15px",
+                                "paddingBottom": "15px"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-4a09a054587e450b8ae37acca8ee4b14",
+                            "children": [
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-5816deaeca0142a9a851fc23b1b74c34",
+                                "children": [
+                                  {
+                                    "@type": "@builder.io/sdk:Element",
+                                    "@version": 2,
+                                    "id": "builder-c00562ee56b74acfa1a565d277088c4c",
+                                    "children": [
+                                      {
+                                        "@type": "@builder.io/sdk:Element",
+                                        "@version": 2,
+                                        "id": "builder-82275f285996452a903ad91ad323d318",
+                                        "component": {
+                                          "name": "Text",
+                                          "options": {
+                                            "text": "<p>GIFTS</p>"
+                                          }
+                                        },
+                                        "responsiveStyles": {
+                                          "large": {
+                                            "display": "flex",
+                                            "flexDirection": "column",
+                                            "alignItems": "stretch",
+                                            "position": "relative",
+                                            "flexShrink": "0",
+                                            "boxSizing": "border-box",
+                                            "marginTop": "auto",
+                                            "lineHeight": "10px",
+                                            "height": "auto",
+                                            "textAlign": "center",
+                                            "fontSize": "32px",
+                                            "marginBottom": "auto",
+                                            "color": "rgba(255, 255, 255, 1)",
+                                            "flexGrow": "0",
+                                            "letterSpacing": "3px"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "@type": "@builder.io/sdk:Element",
+                                        "@version": 2,
+                                        "id": "builder-6cc2bb036c1f4e3bb2d0c28be94fa6fa",
+                                        "component": {
+                                          "name": "Text",
+                                          "options": {
+                                            "text": "<p>UNDER</p>"
+                                          }
+                                        },
+                                        "responsiveStyles": {
+                                          "large": {
+                                            "display": "flex",
+                                            "flexDirection": "column",
+                                            "alignItems": "stretch",
+                                            "position": "relative",
+                                            "flexShrink": "0",
+                                            "boxSizing": "border-box",
+                                            "marginTop": "auto",
+                                            "lineHeight": "10px",
+                                            "height": "auto",
+                                            "textAlign": "center",
+                                            "fontSize": "32px",
+                                            "marginBottom": "auto",
+                                            "color": "rgba(255, 255, 255, 1)",
+                                            "flexGrow": "0",
+                                            "fontWeight": "600",
+                                            "letterSpacing": "3px"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "@type": "@builder.io/sdk:Element",
+                                        "@version": 2,
+                                        "id": "builder-9b164eee32ab48e7aebe2f8e7dc52713",
+                                        "component": {
+                                          "name": "Text",
+                                          "options": {
+                                            "text": "<p>$100</p>"
+                                          }
+                                        },
+                                        "responsiveStyles": {
+                                          "large": {
+                                            "display": "flex",
+                                            "flexDirection": "column",
+                                            "alignItems": "stretch",
+                                            "position": "relative",
+                                            "flexShrink": "0",
+                                            "boxSizing": "border-box",
+                                            "marginTop": "auto",
+                                            "lineHeight": "10px",
+                                            "height": "auto",
+                                            "textAlign": "center",
+                                            "fontSize": "32px",
+                                            "marginBottom": "auto",
+                                            "color": "rgba(255, 255, 255, 1)",
+                                            "flexGrow": "0",
+                                            "letterSpacing": "3px",
+                                            "fontWeight": "600"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "responsiveStyles": {
+                                      "large": {
+                                        "display": "flex",
+                                        "flexDirection": "column",
+                                        "alignItems": "stretch",
+                                        "position": "relative",
+                                        "flexShrink": "0",
+                                        "boxSizing": "border-box",
+                                        "height": "100%",
+                                        "paddingBottom": "0px",
+                                        "flexGrow": "0",
+                                        "width": "100%",
+                                        "backgroundColor": "rgba(86, 27, 31, 0)"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "alignItems": "stretch",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "height": "90%",
+                                    "flexGrow": "1",
+                                    "width": "90%",
+                                    "marginLeft": "auto",
+                                    "marginRight": "auto",
+                                    "borderStyle": "solid",
+                                    "borderColor": "rgba(255, 255, 255, 1)"
+                                  }
+                                }
+                              }
+                            ],
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "height": "250px",
+                                "paddingBottom": "10px",
+                                "flexGrow": "1",
+                                "backgroundColor": "rgba(25, 59, 83, 1)",
+                                "paddingTop": "10px"
+                              },
+                              "medium": {
+                                "marginTop": "10px",
+                                "paddingTop": "15px",
+                                "paddingBottom": "15px"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "tablet"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "alignItems": "stretch",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "paddingLeft": "50px",
+                    "paddingRight": "50px"
+                  },
+                  "medium": {
+                    "width": "80%",
+                    "marginLeft": "auto",
+                    "marginRight": "auto"
+                  },
+                  "small": {
+                    "width": "100%",
+                    "paddingLeft": "20px",
+                    "paddingRight": "20px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-60ebe0e4eb99468d974c761bd5dda7ad",
+            "groupLocked": true,
+            "meta": {
+              "previousId": "builder-65880ad8ae4547ca9777291883939b44"
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-c19676fb81734ee7b2eba2d587c7f38b",
+                "meta": {
+                  "previousId": "builder-6ff5b3d833b84a6a805ef1913be0f212"
+                },
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p>Gifts by recipient</p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "alignItems": "stretch",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "45px",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "textAlign": "center",
+                    "fontSize": "26px",
+                    "fontWeight": "300",
+                    "borderBottom": "1px solid #d3d3d3",
+                    "paddingBottom": "30px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-7225493c1b984d789bc1f17cf59a9fc9",
+                "meta": {
+                  "previousId": "builder-b0354b5cc32549b081eadaa53b64737b"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-85b921c7705a4b6d8538407005fa74d9",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F066d6174c9b44c4e874d6e5998ee9cfb?width=898",
+                                "backgroundPosition": "center",
+                                "backgroundSize": "cover",
+                                "aspectRatio": 1.2742,
+                                "lazy": true,
+                                "sizes": "(max-width: 638px) 91vw, 33vw",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F066d6174c9b44c4e874d6e5998ee9cfb?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F066d6174c9b44c4e874d6e5998ee9cfb?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F066d6174c9b44c4e874d6e5998ee9cfb?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F066d6174c9b44c4e874d6e5998ee9cfb?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F066d6174c9b44c4e874d6e5998ee9cfb?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F066d6174c9b44c4e874d6e5998ee9cfb?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F066d6174c9b44c4e874d6e5998ee9cfb?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F066d6174c9b44c4e874d6e5998ee9cfb?width=898 898w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F066d6174c9b44c4e874d6e5998ee9cfb?width=578 578w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F066d6174c9b44c4e874d6e5998ee9cfb?width=460 460w",
+                                "height": 1123,
+                                "width": 898
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-3d407cbfb7ae40e49a6bd9ba8be4d2d8",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Gifts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "22px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-a270b7267ab147b6b152faecea9f04df",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Lorem ipsum dolor sit amet</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-7bdd1d7180fc468aba2a53c7b04b422e",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><a href=\"Shop for Her\" rel=\"noopener noreferrer\">Shop for Her</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              },
+                              "medium": {
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-95dce63acbcc4c94bc7c42eb209f06c2",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F6eb25f8ddf16467abb3907f37d60dde6?width=898",
+                                "backgroundPosition": "center",
+                                "backgroundSize": "cover",
+                                "aspectRatio": 1.2742,
+                                "lazy": true,
+                                "sizes": "(max-width: 638px) 91vw, 33vw",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F6eb25f8ddf16467abb3907f37d60dde6?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F6eb25f8ddf16467abb3907f37d60dde6?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F6eb25f8ddf16467abb3907f37d60dde6?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F6eb25f8ddf16467abb3907f37d60dde6?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F6eb25f8ddf16467abb3907f37d60dde6?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F6eb25f8ddf16467abb3907f37d60dde6?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F6eb25f8ddf16467abb3907f37d60dde6?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F6eb25f8ddf16467abb3907f37d60dde6?width=898 898w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F6eb25f8ddf16467abb3907f37d60dde6?width=578 578w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F6eb25f8ddf16467abb3907f37d60dde6?width=460 460w",
+                                "height": 1300,
+                                "width": 867
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-9221fc028b7241578cad5daaca272e88",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Gifts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "22px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-feb2a30e51074968b42ccbb4c1f5612f",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Lorem ipsum dolor sit amet</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-171baceb31024d7986b4135a27508ac5",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><a href=\"Shop for kids &amp; babies\" rel=\"noopener noreferrer\">Shop for kids &amp; babies</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              },
+                              "medium": {
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-c8c6c67f7f5f4c1b97d8f6dfa850efc8",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F75ea3a69a6f243d4a439c5f08ad0e8dd?width=898",
+                                "backgroundPosition": "center",
+                                "backgroundSize": "cover",
+                                "aspectRatio": 1.2742,
+                                "lazy": true,
+                                "sizes": "(max-width: 638px) 91vw, 33vw",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F75ea3a69a6f243d4a439c5f08ad0e8dd?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F75ea3a69a6f243d4a439c5f08ad0e8dd?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F75ea3a69a6f243d4a439c5f08ad0e8dd?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F75ea3a69a6f243d4a439c5f08ad0e8dd?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F75ea3a69a6f243d4a439c5f08ad0e8dd?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F75ea3a69a6f243d4a439c5f08ad0e8dd?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F75ea3a69a6f243d4a439c5f08ad0e8dd?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F75ea3a69a6f243d4a439c5f08ad0e8dd?width=898 898w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F75ea3a69a6f243d4a439c5f08ad0e8dd?width=578 578w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F75ea3a69a6f243d4a439c5f08ad0e8dd?width=460 460w",
+                                "height": 587,
+                                "width": 898
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-04610a09d8314c02aeeaa330afd04699",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Gifts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "22px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-d218b63d49b54ed1999ad938af3d3b08",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Lorem ipsum dolor sit amet</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-217004da57194844bfa4b0ee2cb70603",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><a href=\"Shop for Him\" rel=\"noopener noreferrer\">Shop for Him</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              },
+                              "medium": {
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-4d84439b33474a56b3b8a1eb494c2979",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fe6bbc07b8dc04df082a570b314b1bf05?width=898",
+                                "backgroundPosition": "center",
+                                "backgroundSize": "cover",
+                                "aspectRatio": 1.2742,
+                                "lazy": true,
+                                "sizes": "(max-width: 638px) 91vw, 33vw",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fe6bbc07b8dc04df082a570b314b1bf05?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fe6bbc07b8dc04df082a570b314b1bf05?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fe6bbc07b8dc04df082a570b314b1bf05?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fe6bbc07b8dc04df082a570b314b1bf05?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fe6bbc07b8dc04df082a570b314b1bf05?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fe6bbc07b8dc04df082a570b314b1bf05?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fe6bbc07b8dc04df082a570b314b1bf05?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fe6bbc07b8dc04df082a570b314b1bf05?width=898 898w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fe6bbc07b8dc04df082a570b314b1bf05?width=578 578w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fe6bbc07b8dc04df082a570b314b1bf05?width=460 460w",
+                                "height": 599,
+                                "width": 898
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-e3beacc1ca414bcd95531f7edd959629",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Gifts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "22px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-07781a535fbe4adcaffceb7d49e600ec",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Lorem ipsum dolor sit amet</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-161d62b9e79d4cf096aeca716da70125",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><a href=\"Shop for pet lovers\" rel=\"noopener noreferrer\">Shop for pet lovers</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              },
+                              "medium": {
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "tablet"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "alignItems": "stretch",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "paddingLeft": "50px",
+                    "paddingRight": "50px"
+                  },
+                  "small": {
+                    "paddingLeft": "30px",
+                    "paddingRight": "30px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-90716ca8629e4f4d849dc0bb7282d287",
+            "groupLocked": true,
+            "meta": {
+              "previousId": "builder-a82c86c2676b42e5a531047e3cf6e761"
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-57291fb50cd84a91a313e53fd41e92bf",
+                "meta": {
+                  "previousId": "builder-a1cbfb7654ec41c2a2c08c0a6314060d"
+                },
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p>Gifts by category</p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "alignItems": "stretch",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "45px",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "textAlign": "center",
+                    "fontSize": "26px",
+                    "fontWeight": "300",
+                    "borderBottom": "1px solid #d3d3d3",
+                    "paddingBottom": "30px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-b59b55deb15e4c9b831bd120705cea25",
+                "meta": {
+                  "previousId": "builder-1898941836df4d7c92db11ebb8b0767c"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-a841b98e506349b2a6abf587d3e11518",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3412d878786c41589abbc4b23b04167c?width=898",
+                                "backgroundPosition": "center",
+                                "backgroundSize": "cover",
+                                "aspectRatio": 1.0235,
+                                "lazy": true,
+                                "sizes": "(max-width: 638px) 93vw, 45vw",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3412d878786c41589abbc4b23b04167c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3412d878786c41589abbc4b23b04167c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3412d878786c41589abbc4b23b04167c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3412d878786c41589abbc4b23b04167c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3412d878786c41589abbc4b23b04167c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3412d878786c41589abbc4b23b04167c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3412d878786c41589abbc4b23b04167c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3412d878786c41589abbc4b23b04167c?width=898 898w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3412d878786c41589abbc4b23b04167c?width=588 588w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3412d878786c41589abbc4b23b04167c?width=620 620w",
+                                "height": 599,
+                                "width": 898
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-66adddfff6f1496e8eac0fe4ef589de6",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Gifts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "22px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-8f3daa0661d4435f901255dae460696c",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Lorem ipsum dolor sit amet</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-1734b64d88bf44109c45a77477ea5661",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><a href=\"Shop\" rel=\"noopener noreferrer\">Shop</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              },
+                              "medium": {
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-bc4fde0b5be8464ea0f734ce3111150a",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F86b0e29104bc413596ea137692dec859?width=898",
+                                "backgroundPosition": "right",
+                                "backgroundSize": "cover",
+                                "aspectRatio": 1.0235,
+                                "lazy": true,
+                                "sizes": "(max-width: 638px) 93vw, 45vw",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F86b0e29104bc413596ea137692dec859?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F86b0e29104bc413596ea137692dec859?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F86b0e29104bc413596ea137692dec859?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F86b0e29104bc413596ea137692dec859?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F86b0e29104bc413596ea137692dec859?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F86b0e29104bc413596ea137692dec859?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F86b0e29104bc413596ea137692dec859?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F86b0e29104bc413596ea137692dec859?width=898 898w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F86b0e29104bc413596ea137692dec859?width=588 588w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F86b0e29104bc413596ea137692dec859?width=620 620w",
+                                "height": 599,
+                                "width": 898
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-b82de670c15c4ce884e15f2c4f4e34fe",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Gifts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "22px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-897256d1bdd84751abb81eda4b77acfc",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Lorem ipsum dolor sit amet</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-3407ae0d6d7346c69b44e9c0d961dd7c",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><a href=\"Shop\" rel=\"noopener noreferrer\">Shop</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              },
+                              "medium": {
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-b8dcb5ea20ba4bdf97d1500a9d16db25",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3ac5369da6924e61a72dd54a3a7b27f9?width=898",
+                                "backgroundPosition": "center",
+                                "backgroundSize": "cover",
+                                "aspectRatio": 1.0235,
+                                "lazy": true,
+                                "sizes": "(max-width: 638px) 93vw, 45vw",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3ac5369da6924e61a72dd54a3a7b27f9?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3ac5369da6924e61a72dd54a3a7b27f9?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3ac5369da6924e61a72dd54a3a7b27f9?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3ac5369da6924e61a72dd54a3a7b27f9?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3ac5369da6924e61a72dd54a3a7b27f9?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3ac5369da6924e61a72dd54a3a7b27f9?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3ac5369da6924e61a72dd54a3a7b27f9?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3ac5369da6924e61a72dd54a3a7b27f9?width=898 898w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3ac5369da6924e61a72dd54a3a7b27f9?width=588 588w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F3ac5369da6924e61a72dd54a3a7b27f9?width=620 620w",
+                                "height": 1300,
+                                "width": 868
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-4d11652b622241fbac3b81dadf5d9e77",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Gifts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "22px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-19387f12d9db4f6ea758d2b71f33c5ff",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Lorem ipsum dolor sit amet</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-d13dd73625a24f9b884b26fa8948a401",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><a href=\"Shop\" rel=\"noopener noreferrer\">Shop</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              },
+                              "medium": {
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "tablet"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "alignItems": "stretch",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "paddingLeft": "50px",
+                    "paddingRight": "50px"
+                  },
+                  "small": {
+                    "paddingLeft": "30px",
+                    "paddingRight": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-d63aa34d10cd49d4b0caa2406c54f78a",
+                "meta": {
+                  "previousId": "builder-aeb4a663b5f74c938ffbb68f96078d89"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-04c91fddfbe34ce3a546c6caa7ba754a",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ff202d909dd8141d18cc6c5de91435b5f?width=898",
+                                "backgroundPosition": "center",
+                                "backgroundSize": "cover",
+                                "aspectRatio": 1.0235,
+                                "lazy": true,
+                                "sizes": "(max-width: 638px) 91vw, 45vw",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ff202d909dd8141d18cc6c5de91435b5f?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ff202d909dd8141d18cc6c5de91435b5f?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ff202d909dd8141d18cc6c5de91435b5f?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ff202d909dd8141d18cc6c5de91435b5f?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ff202d909dd8141d18cc6c5de91435b5f?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ff202d909dd8141d18cc6c5de91435b5f?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ff202d909dd8141d18cc6c5de91435b5f?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ff202d909dd8141d18cc6c5de91435b5f?width=898 898w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ff202d909dd8141d18cc6c5de91435b5f?width=578 578w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Ff202d909dd8141d18cc6c5de91435b5f?width=620 620w",
+                                "height": 599,
+                                "width": 898
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-02262a78561f4f79bf5f6a0d62aed2b4",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Gifts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "22px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-54a41ae1a15547b5a03f344ae11119f3",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Lorem ipsum dolor sit amet</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-cc08a32ce8e64a44a9aeeb61ee1819a8",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><a href=\"Shop\" rel=\"noopener noreferrer\">Shop</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              },
+                              "medium": {
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-d3d27b74cc05427b960ca36e2b0bd8ca",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F7b44fc1af8f345d5bd89aad3c1958c12?width=898",
+                                "backgroundPosition": "center",
+                                "backgroundSize": "cover",
+                                "aspectRatio": 1.0235,
+                                "lazy": true,
+                                "sizes": "(max-width: 638px) 91vw, 45vw",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F7b44fc1af8f345d5bd89aad3c1958c12?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F7b44fc1af8f345d5bd89aad3c1958c12?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F7b44fc1af8f345d5bd89aad3c1958c12?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F7b44fc1af8f345d5bd89aad3c1958c12?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F7b44fc1af8f345d5bd89aad3c1958c12?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F7b44fc1af8f345d5bd89aad3c1958c12?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F7b44fc1af8f345d5bd89aad3c1958c12?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F7b44fc1af8f345d5bd89aad3c1958c12?width=898 898w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F7b44fc1af8f345d5bd89aad3c1958c12?width=578 578w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2F7b44fc1af8f345d5bd89aad3c1958c12?width=620 620w",
+                                "height": 599,
+                                "width": 898
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-f3cc9ec0d1bc48ccbbd4b5b6a02cc0c0",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Gifts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "22px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-b40e951f683b4f5e87fef3879818debf",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Lorem ipsum dolor sit amet</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-019aafffbe1e42f49c9bb503eede305a",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><a href=\"Shop\" rel=\"noopener noreferrer\">Shop</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              },
+                              "medium": {
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-d12e315b64884bd6b9f41505e57fc6c8",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fadcaa66d541949f98b67d6972ebdaa6a?width=898",
+                                "backgroundPosition": "center",
+                                "backgroundSize": "cover",
+                                "aspectRatio": 1.0235,
+                                "lazy": true,
+                                "sizes": "(max-width: 638px) 91vw, 45vw",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fadcaa66d541949f98b67d6972ebdaa6a?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fadcaa66d541949f98b67d6972ebdaa6a?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fadcaa66d541949f98b67d6972ebdaa6a?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fadcaa66d541949f98b67d6972ebdaa6a?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fadcaa66d541949f98b67d6972ebdaa6a?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fadcaa66d541949f98b67d6972ebdaa6a?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fadcaa66d541949f98b67d6972ebdaa6a?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fadcaa66d541949f98b67d6972ebdaa6a?width=898 898w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fadcaa66d541949f98b67d6972ebdaa6a?width=578 578w, https://cdn.builder.io/api/v1/image/assets%2F89d6bbb44070475d9580fd22f21ef8f1%2Fadcaa66d541949f98b67d6972ebdaa6a?width=620 620w",
+                                "height": 615,
+                                "width": 898
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-dc1264362d544941beb869da9011de3b",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Gifts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "22px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-8a0cb04979374b1190dc83ae7f4d50de",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Lorem ipsum dolor sit amet</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-4fcc02469e604844bb393751ab9eaa25",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><a href=\"Shop\" rel=\"noopener noreferrer\">Shop</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "alignItems": "stretch",
+                                "flexShrink": "0",
+                                "position": "relative",
+                                "marginTop": "10px",
+                                "textAlign": "center",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "fontWeight": "300"
+                              },
+                              "medium": {
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "tablet"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "alignItems": "stretch",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "paddingLeft": "50px",
+                    "paddingRight": "50px"
+                  },
+                  "medium": {
+                    "marginTop": "0px"
+                  },
+                  "small": {
+                    "paddingLeft": "30px",
+                    "paddingRight": "30px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "alignItems": "stretch",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "0px",
+            "paddingLeft": "20px",
+            "paddingRight": "20px",
+            "paddingTop": "50px",
+            "paddingBottom": "50px"
+          }
+        }
+      }
+    ],
+    "url": "/random",
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "folders": [],
+  "id": "65e9cb42d4454861a7cf17acbd974678",
+  "lastUpdatedBy": "IqzTkBgwWTbzaXDAhTL6IpwiCah1",
+  "meta": {
+    "hasLinks": false,
+    "kind": "page",
+    "lastPreviewUrl": "http://localhost:3000/b/random?builder.space=1f098a44b17d4df688d2afdc8a10ac7d&builder.cachebust=true&builder.preview=page&builder.noCache=true&__builder_editing__=true&builder.overrides.page=c9fab98656a94f9fae42c181a20834a6&builder.overrides.c9fab98656a94f9fae42c181a20834a6=c9fab98656a94f9fae42c181a20834a6",
+    "needsHydration": false
+  },
+  "modelId": "820e7ce1de994c01a0997e3b24d1f7b1",
+  "name": "random",
+  "published": "published",
+  "query": [
+    {
+      "@type": "@builder.io/core:Query",
+      "operator": "is",
+      "property": "urlPath",
+      "value": "/random"
+    }
+  ],
+  "testRatio": 1,
+  "variations": {},
+  "lastUpdated": 1677605817506,
+  "previewUrl": "http://localhost:3000/b/random",
+  "firstPublished": 1677556578739,
+  "rev": "v1y8qt7rv2p",
+  "@originOrg": "1f098a44b17d4df688d2afdc8a10ac7d",
+  "@originContentId": "c9fab98656a94f9fae42c181a20834a6",
+  "@originModelId": "ffa91f13cce74d91a5695de0d3f9c02c"
+}

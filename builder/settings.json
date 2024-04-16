@@ -1,0 +1,47 @@
+{
+  "customTargetingAttributes": {
+    "product": {
+      "type": "KiboCommerceProduct"
+    },
+    "productHandle": {
+      "type": "KiboCommerceProductPreview"
+    }
+  },
+  "settings": {
+    "plugins": {
+      "@builder.io/plugin-kibocommerce": {
+        "sharedSecret": "132213b896c3479592954ea6a92b6825",
+        "hasConnected": true,
+        "authHost": "home.mozu.com",
+        "apiHost": "t26507-s41315.sandbox.mozu.com",
+        "clientId": "i7d6294.VueStorefront.1.0.0.Release"
+      }
+    },
+    "customComponents": [
+      "SmallBanner",
+      "KiboHeroCarousel",
+      "ProductRecommendations",
+      "CmsHomePageProducts",
+      "ContentTile"
+    ]
+  },
+  "type": "space",
+  "siteUrl": "https://next-kibo-starter.vercel.app",
+  "name": "Kibo demo",
+  "loadPlugins": ["@builder.io/plugin-kibocommerce@dev"],
+  "id": "1f098a44b17d4df688d2afdc8a10ac7d",
+  "@version": 6,
+  "cloneInfo": {
+    "contentIdMap": {
+      "12e30decbb8241dc8222ebcfc783cd60": "f3816f5c72ec40fea30aaab9a7c42380",
+      "a66390a514fe4782a02a0f94aec3faf7": "14b70ed0d0fc426095cbe467b05a7c16",
+      "18d975c06eb248caa1e07359fcfa3e78": "e9f8d160e5614f80b02eff89adbe53c4",
+      "c9fab98656a94f9fae42c181a20834a6": "65e9cb42d4454861a7cf17acbd974678"
+    },
+    "modelIdMap": {
+      "1c7656e746f242248b68e3e26025d615": "bd2140a6ec0745e69ac3e61172b63728",
+      "39dd309206c44cdda45866c7d0155226": "253e957db92948039daa165d37ecf152",
+      "ffa91f13cce74d91a5695de0d3f9c02c": "820e7ce1de994c01a0997e3b24d1f7b1"
+    }
+  }
+}
